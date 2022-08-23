@@ -43,4 +43,4 @@ def show_score(choice, color, font, size):
      
     # displaying text
     game_window.blit(score_surface, score_rect)
- 
+ # meu primeiro código
